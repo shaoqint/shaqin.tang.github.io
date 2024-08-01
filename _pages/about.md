@@ -1,11 +1,4 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 Welcome!
 
 I am a PhD candidate in Strategy and Entrepreneurship at the Leeds School of Business, University of Colorado Boulder. Previously, I earned an MA in Economics from Duke University and a BSc in Economics from Sun Yat-sen University and the University of Birmingham.
